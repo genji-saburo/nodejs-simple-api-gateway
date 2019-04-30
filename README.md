@@ -1,7 +1,7 @@
 Configuration
 =============
 
-API GATEWAY for various microservices in XSU
+simple API GATEWAY for various microservices
 
 ( Initialized with pricing microservice )
 
@@ -21,8 +21,5 @@ Refer to the `test/rest.js` example to know how to authenticate with the server.
 
 #### Author
 
-[Manuel]
+[Genji Saburo]
 
-#### License
-
-XSU API GATEWAY
